@@ -1,0 +1,18 @@
+# Build directories
+build/
+
+# Wii binaries
+*.elf
+*.dol
+
+# Object files
+*.o
+*.d
+
+# Backup or temp files
+*~
+*.swp
+*.log
+
+# IDE specific
+.vscode/
